@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import './App.css';
 
 import React, { useState } from 'react';
@@ -7,8 +7,8 @@ import News from './Components/News';
 
 import {
   BrowserRouter as Router,
-  Switch,
   Route,
+  Switch
 } from "react-router-dom";
 import LoadingBar from 'react-top-loading-bar'
 
