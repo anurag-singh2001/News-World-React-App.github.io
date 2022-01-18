@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.a617e044.chunk.css",
-    "main.js": "/static/js/main.cb9c1ce9.chunk.js",
-    "main.js.map": "/static/js/main.cb9c1ce9.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.b7a13984.js",
-    "runtime-main.js.map": "/static/js/runtime-main.b7a13984.js.map",
-    "static/js/2.1dc3abbb.chunk.js": "/static/js/2.1dc3abbb.chunk.js",
-    "static/js/2.1dc3abbb.chunk.js.map": "/static/js/2.1dc3abbb.chunk.js.map",
-    "static/js/3.1686862b.chunk.js": "/static/js/3.1686862b.chunk.js",
-    "static/js/3.1686862b.chunk.js.map": "/static/js/3.1686862b.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.1dc3abbb.chunk.js.LICENSE.txt": "/static/js/2.1dc3abbb.chunk.js.LICENSE.txt",
-    "static/media/loading.8ef674ee.gif": "/static/media/loading.8ef674ee.gif"
+    "main.css": "/News-World-React-App/static/css/main.a617e044.chunk.css",
+    "main.js": "/News-World-React-App/static/js/main.cb9c1ce9.chunk.js",
+    "main.js.map": "/News-World-React-App/static/js/main.cb9c1ce9.chunk.js.map",
+    "runtime-main.js": "/News-World-React-App/static/js/runtime-main.31389957.js",
+    "runtime-main.js.map": "/News-World-React-App/static/js/runtime-main.31389957.js.map",
+    "static/js/2.1dc3abbb.chunk.js": "/News-World-React-App/static/js/2.1dc3abbb.chunk.js",
+    "static/js/2.1dc3abbb.chunk.js.map": "/News-World-React-App/static/js/2.1dc3abbb.chunk.js.map",
+    "static/js/3.1686862b.chunk.js": "/News-World-React-App/static/js/3.1686862b.chunk.js",
+    "static/js/3.1686862b.chunk.js.map": "/News-World-React-App/static/js/3.1686862b.chunk.js.map",
+    "index.html": "/News-World-React-App/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/News-World-React-App/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.1dc3abbb.chunk.js.LICENSE.txt": "/News-World-React-App/static/js/2.1dc3abbb.chunk.js.LICENSE.txt",
+    "static/media/loading.8ef674ee.gif": "/News-World-React-App/static/media/loading.8ef674ee.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.b7a13984.js",
+    "static/js/runtime-main.31389957.js",
     "static/js/2.1dc3abbb.chunk.js",
     "static/css/main.a617e044.chunk.css",
     "static/js/main.cb9c1ce9.chunk.js"
